@@ -17,7 +17,8 @@ export const Form = styled.form`
 
 export const Label = styled.label`
   margin-bottom: 4px;
-  font-size: 0.8rem;
+  font-size: 16px;
+  color: #ffffff;
 `;
 
 export const Input = styled.input`
@@ -26,13 +27,13 @@ export const Input = styled.input`
   margin-bottom: 20px;
   border: solid 1px #d4d3cf;
   padding: 0 8px;
-  font-size: 0.9rem;
+  font-size: 16px;
 `;
 
 export const Button = styled.button`
   border: none;
   background-color: transparent;
-  color: #007aff;
-  font-size: 1rem;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 600;
 `;
